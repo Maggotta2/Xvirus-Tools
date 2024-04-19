@@ -1,8 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Xvirus-Team/xvirus-tools">
     <img src="https://xvirus.lol/xicon.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">[API-Tool]- XVirus</h3>
 
