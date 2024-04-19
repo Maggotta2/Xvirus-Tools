@@ -14,12 +14,6 @@
   </p>
 </p>
 
-<p align="center">
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/Xvirus-Team/xvirus-tools/total">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/Xvirus-Team/xvirus-tools?color=dark-green">
-  <img alt="Forks" src="https://img.shields.io/github/forks/Xvirus-Team/xvirus-tools?style=social">
-</p>
-
 ## About The Project
 
 <p align="center">
