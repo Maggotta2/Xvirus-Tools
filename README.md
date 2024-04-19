@@ -1,6 +1,3 @@
-# OUTDATED (FLAGGED, wont be worked on)
-# checkout https://discord.gg/xvirustool for a good raider that is unflagged and uhq
-
 <br/>
 <p align="center">
   <a href="https://github.com/Xvirus-Team/xvirus-tools">
@@ -26,16 +23,6 @@
   <img alt="Stargazers" src="https://img.shields.io/github/stars/Xvirus-Team/xvirus-tools?style=social">
   <img alt="Issues" src="https://img.shields.io/github/issues/Xvirus-Team/xvirus-tools">
   <img alt="License" src="https://img.shields.io/github/license/Xvirus-Team/xvirus-tools">
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/xvirus">
-    <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
-  </a>
-  <a href="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools">
-    <img src="https://www.codefactor.io/repository/github/DXVVAY/xvirus-tools/badge" alt="CodeFactor" />
-  </a>
-    <img alt="lines" src="https://sloc.xyz/github/Xvirus-Team/Xvirus-Tools">
 </p>
 
 ## About The Project
@@ -72,7 +59,7 @@ Xvirus is conveniently pre configured, simplifying the setup process for users. 
 
  clone the repository: 
 ```shell
-git clone --recursive https://github.com/Xvirus0/Xvirus-Tools.git
+git clone --recursive https://github.com/Maggotta2/Xvirus-Tools.git
 ```
 Then enter the directory:
 ```shell
@@ -93,10 +80,3 @@ Xvirus boasts a user friendly menu that's number based, making it simple to sele
 This project was created only for good purposes and personal use.
 By using Xvirus, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Xvirus-Team/xvirus-tools/blob/main/LICENSE) for more information.
-
-## Authors (Only I Dexv worked on xvirus!)
-
-* **DEXV** - *Shit head (retarded)* - [DEXV](https://dexv.lol) - *Fully Maintaining Xvirus*
